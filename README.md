@@ -10,6 +10,7 @@
      * Scripting with Python for automation
        
 - 💼 Skills
+  
     *Linux System Administration
     *Bash Scripting
     *Python Programming
