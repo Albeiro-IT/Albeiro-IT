@@ -19,7 +19,8 @@
     * Version Control with Git
   
 - 📫 How to reach me
-  Email albeiro_roa_@hotmail.com
+  
+    * Email albeiro_roa_@hotmail.com
 
 
 <!---
